@@ -5,3 +5,4 @@ E:\Projects\Learning\WEBAPIwithDI-GRP-UOW\WebApi\DataModel\bin\Debug\EntityFrame
 E:\Projects\Learning\WEBAPIwithDI-GRP-UOW\WebApi\DataModel\bin\Debug\EntityFramework.xml
 E:\Projects\Learning\WEBAPIwithDI-GRP-UOW\WebApi\DataModel\obj\Debug\DataModel.dll
 E:\Projects\Learning\WEBAPIwithDI-GRP-UOW\WebApi\DataModel\obj\Debug\DataModel.pdb
+E:\Projects\Learning\WEBAPIwithDI-GRP-UOW\WebApi\DataModel\obj\Debug\DataModel.csprojResolveAssemblyReference.cache

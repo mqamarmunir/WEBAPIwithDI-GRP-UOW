@@ -1,0 +1,5 @@
+E:\Projects\Learning\WEBAPIwithDI-GRP-UOW\WebApi\BusinessEntities\bin\Debug\BusinessEntities.dll
+E:\Projects\Learning\WEBAPIwithDI-GRP-UOW\WebApi\BusinessEntities\bin\Debug\BusinessEntities.pdb
+E:\Projects\Learning\WEBAPIwithDI-GRP-UOW\WebApi\BusinessEntities\obj\Debug\BusinessEntities.csprojResolveAssemblyReference.cache
+E:\Projects\Learning\WEBAPIwithDI-GRP-UOW\WebApi\BusinessEntities\obj\Debug\BusinessEntities.dll
+E:\Projects\Learning\WEBAPIwithDI-GRP-UOW\WebApi\BusinessEntities\obj\Debug\BusinessEntities.pdb
